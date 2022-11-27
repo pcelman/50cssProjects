@@ -12,3 +12,7 @@ Creating 50 CSS projects in 50 days
 <img width="1143" alt="Screen Shot 2022-11-27 at 16 52 26" src="https://user-images.githubusercontent.com/100241036/204156687-ef014611-078e-4f72-95b9-9d589bcdddb9.png">
 
 03 Rotating Nav Animation
+
+<img width="933" alt="Screen Shot 2022-11-27 at 17 10 27" src="https://user-images.githubusercontent.com/100241036/204157389-e48ecf21-0523-4ec5-8953-cedcb907108e.png">
+
+03_1 3D Rotating Navigation from https://codyhouse.co/gem/3d-rotating-navigation
