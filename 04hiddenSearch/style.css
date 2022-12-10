@@ -29,7 +29,6 @@ body {
   height: 50px;
   width: 50px;
   transition: width 0.3s ease;
-  /* border-radius: 20px 20px 20px 20px ; */
 }
 
 .btn {
@@ -43,7 +42,6 @@ body {
   height: 50px;
   width: 50px;
   transition: transform 0.3s ease;
-  /* border-radius: 20px 20px 20px 20px; */
 }
 
 .btn:focus,
