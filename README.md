@@ -20,3 +20,11 @@ Creating 50 CSS projects in 50 days
 <img width="1067" alt="Screenshot 2022-12-25 at 13 02 37" src="https://user-images.githubusercontent.com/100241036/209474780-ba490669-9abc-4a16-8846-741cba0baadb.png">
 
 05 Blurry Loading
+<img width="1238" alt="Screenshot 2022-12-25 at 15 02 24" src="https://user-images.githubusercontent.com/100241036/209477972-76f020aa-ab27-454f-9119-3e541319b9ea.png">
+
+06 Scroll Animation
+
+<img width="1438" alt="Screenshot 2022-12-25 at 15 02 50" src="https://user-images.githubusercontent.com/100241036/209477980-1414b687-5c25-43f1-aee5-2f8d5ecb71a1.png">
+<img width="1437" alt="Screenshot 2022-12-25 at 15 03 09" src="https://user-images.githubusercontent.com/100241036/209477992-2b172cb8-5f49-4815-968b-1d6fda166243.png">
+
+07 Split Landing Page
