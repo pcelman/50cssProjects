@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Roboto+Condensed&family=Roboto+Mono:wght@400;500;700&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #dfd4cb;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  overflow-x: hidden;
+  font-weight: 500;
+}
+
+h1 {
+  margin: 10px;
+}
+
+.box {
+  background-color: rgb(108, 158, 199);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+  transform: translateX(400%);
+  transition: transform 0.4s ease;
+}
+
+/* even boxes will come from the left and odd boxes from the right  */
+.box:nth-of-type(even) {
+  transform: translateX(-400%);
+}
+
+/* when the show class is added to the class box */
+.box.show {
+  transform: translateX(0);
+}
+
+.box h2 {
+  font-size: 45px;
+  font-weight: 300;
+}
