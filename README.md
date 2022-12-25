@@ -13,3 +13,10 @@ Creating 50 CSS projects in 50 days
 
 03 Rotating Nav Animation
 
+<img width="993" alt="Screenshot 2022-12-25 at 13 02 10" src="https://user-images.githubusercontent.com/100241036/209474771-f6ba64c1-69cf-44f5-8b9c-cc61cffb6e84.png">
+
+04 Hidden Search
+
+<img width="1067" alt="Screenshot 2022-12-25 at 13 02 37" src="https://user-images.githubusercontent.com/100241036/209474780-ba490669-9abc-4a16-8846-741cba0baadb.png">
+
+05 Blurry Loading
