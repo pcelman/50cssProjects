@@ -28,3 +28,11 @@ Creating 50 CSS projects in 50 days
 <img width="1437" alt="Screenshot 2022-12-25 at 15 03 09" src="https://user-images.githubusercontent.com/100241036/209477992-2b172cb8-5f49-4815-968b-1d6fda166243.png">
 
 07 Split Landing Page
+
+<img width="1123" alt="Screenshot 2023-02-10 at 12 24 49" src="https://user-images.githubusercontent.com/100241036/218129365-bd3759bc-adc9-46d5-aec9-95a949608367.png">
+
+08 Form Wave
+
+<img width="1195" alt="Screenshot 2023-02-10 at 12 25 03" src="https://user-images.githubusercontent.com/100241036/218129379-669fbf76-b275-4162-b6e6-6f1cb0351420.png">
+
+09 Sound Board
